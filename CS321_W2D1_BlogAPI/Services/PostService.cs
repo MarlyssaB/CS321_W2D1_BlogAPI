@@ -74,7 +74,7 @@ namespace CS321_W2D1_BlogAPI.Services
         public void Remove(Post post)
         {
             _posts.Remove(post);
-            // CHECKTODO: remove the post from _posts 
+            // CHECKTODO: remove the post from _posta
 
         }
     }
